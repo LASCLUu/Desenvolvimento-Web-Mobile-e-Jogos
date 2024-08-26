@@ -2,5 +2,5 @@ import calc
 a = 20
 b = 5
 
-soma = calc.somar(a, b)
+soma = calc.soma(a, b)
 print(soma)
