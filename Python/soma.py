@@ -1,5 +1,5 @@
 import calc
-a = 20
-b = 5
+a = int(input('Digite o 1° número: '))
+b = int(input('Digite o 2° número: '))
 soma = calc.soma(a, b)
 print('Seu número é', soma)
