@@ -1,2 +1,2 @@
-def soma(a, b):
+def calculadora(a, b):
     return a + b
