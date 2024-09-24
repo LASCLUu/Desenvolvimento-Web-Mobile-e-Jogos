@@ -1,7 +1,7 @@
 import bootstrap from 'bootstrap';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'bootstrap/dist/css/bootstrap.min.css'
+import 1bootstrap/dist
 
 const App = () => {
     return (
