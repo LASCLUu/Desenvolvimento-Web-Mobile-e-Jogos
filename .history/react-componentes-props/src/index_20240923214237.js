@@ -15,11 +15,10 @@ const App = () => {
             <div className='col-12 .col-xl-3.col-lg-6'>
                 <div className='border p-4'>Pedido 1</div>
             </div>
-
+            
             <div className='col-12 .col-xl-3.col-lg-6'>
                 <div className='border p-4'>Pedido 2</div>
             </div>
-            
             <div className='col-12 .col-xl-3.col-lg-6'>
                 <div className='border p-4'>Pedido 3</div>
             </div>
